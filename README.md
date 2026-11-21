@@ -1,6 +1,6 @@
 # TP2-DAR2026 - Sockets TCP : échange de chaînes et d'objets
 
-Nom Prénom - LSI3
+Abdelkefi Omar - LSI3
 
 ## Activité 2-1 : Échange de chaînes de caractères
 
